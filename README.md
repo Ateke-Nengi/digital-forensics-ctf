@@ -53,22 +53,23 @@ The only allocated files on the volume are two recipe text documents — already
 
 ## 📑 Table of Contents
 
-1. [📖 Introduction](#1-introduction)
-2. [🔒 Evidence Integrity & Chain of Custody](#2-evidence-integrity--chain-of-custody)
-3. [🔎 Overview](#3-overview)
-4. [🎯 Objectives](#4-objectives)
-5. [📐 Scope & Limitations](#5-scope--limitations)
-6. [🛠️ Tools Used](#6-tools-used)
-7. [⚙️ Methodology](#7-methodology)
-8. [🔬 Findings](#8-findings)
-9. [🚨 Indicators & Anti-Forensic Techniques](#9-indicators--anti-forensic-techniques)
-10. [🔗 Correlation](#10-correlation)
-11. [📊 Assessment](#11-assessment)
-12. [⚠️ Risk / Evidentiary Analysis](#12-risk--evidentiary-analysis)
-13. [💡 Recommendations](#13-recommendations)
-14. [🧩 Challenges & Solutions](#14-challenges--solutions)
-15. [🎓 Skills Demonstrated](#15-skills-demonstrated)
-16. [📚 Reference](#16-reference)
+1. [📖 Introduction](#-1-introduction)
+2. [🔒 Evidence Integrity & Chain of Custody](#-2-evidence-integrity--chain-of-custody)
+3. [🔎 Overview](#-3-overview)
+4. [🎯 Objectives](#-4-objectives)
+5. [📐 Scope & Limitations](#-5-scope--limitations)
+6. [🛠️ Tools Used](#-6-tools-used)
+7. [⚙️ Methodology](#-7-methodology)
+8. [🔬 Findings](#-8-findings)
+9. [🚨 Indicators & Anti-Forensic Techniques](#-9-indicators--anti-forensic-techniques)
+10. [🔗 Correlation](#-10-correlation)
+11. [📊 Assessment](#-11-assessment)
+12. [⚠️ Risk / Evidentiary Analysis](#-12-risk--evidentiary-analysis)
+13. [💡 Recommendations](#-13-recommendations)
+14. [🧩 Challenges & Solutions](#-14-challenges--solutions)
+15. [🎓 Skills Demonstrated](#-15-skills-demonstrated)
+16. [📚 Reference](#-16-reference)
+
 
 # **📖 1. Introduction**
 
